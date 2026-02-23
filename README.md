@@ -7,6 +7,7 @@ Farmers face heavy post-harvest losses due to improper storage conditions like t
 AgriSmart helps farmers check spoilage risk based on:
 - Crop type
 - Temperature
+- Humidity
 - Storage days
 
 It provides risk alerts and suggestions to reduce post-harvest losses.
